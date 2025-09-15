@@ -33,8 +33,6 @@
 # 4. 数据结构
 ## 4.1 视频信息对象结构
 # <img width="723" height="803" alt="image" src="https://github.com/user-attachments/assets/a99c695a-dea4-4096-95cc-e9fd12f9df2a" />
-## 4.2 WebSocket API 映射
-# <img width="736" height="324" alt="image" src="https://github.com/user-attachments/assets/f95e1e21-855e-47ec-bfda-e4c0917a698a" />
 # 5. 使用示例
 ## 5.1 初始化播放
 # <img width="721" height="303" alt="image" src="https://github.com/user-attachments/assets/2fe84e55-f08e-4e1a-a5bc-7eab6abf67b1" />
